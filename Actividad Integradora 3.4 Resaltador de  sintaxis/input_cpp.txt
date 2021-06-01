@@ -1,0 +1,12 @@
+#include<iostream>
+
+using namespace std;
+
+string nombre = "Eduardo";
+string hola = "Hola";
+
+int main(){
+         cout<<"------------------------"<<;
+         cout<<"Actividad Integradora 3.4 Resaltador de sintaxis"<<;
+         cout<<"------------------------"<<;
+}
